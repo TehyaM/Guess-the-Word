@@ -1,0 +1,41 @@
+body
+{
+	
+	background:url("https://media4.giphy.com/media/3oEduHe1qxrkCwo4ZG/giphy.gif?cid=ecf05e47sc5k3z2p67937wcrd3eyantx2ya5jythkeg55qik&rid=giphy.gif&ct=g");
+	
+    background-repeat:no-repeat ;
+    background-size: cover;
+
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
